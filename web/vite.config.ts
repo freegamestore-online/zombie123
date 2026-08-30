@@ -34,9 +34,9 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: "APPNAME",
-        short_name: "APPNAME",
-        description: "APPNAME — free forever",
+        name: "Zombie",
+        short_name: "Zombie",
+        description: "Zombie — free forever",
         start_url: "/",
         display: "standalone",
         background_color: "#ffffff",
